@@ -1,0 +1,1 @@
+The ventilator must use a pressure sensor like the MPX5010DP. It must maintain a lung pressure between 5 and 40 cmH2O. The air must be filtered using a HEPA filter before reaching the patient.
